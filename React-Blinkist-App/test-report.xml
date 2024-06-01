@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/organisms/BookDetail/index.test.tsx">
+    <testCase name="should render the book detail" duration="446"/>
+    <testCase name="should contain the read now button" duration="81"/>
+    <testCase name="should contain the Finished Reading button" duration="112"/>
+    <testCase name="should contain Link tag" duration="326"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/organisms/Library/index.test.tsx">
+    <testCase name="should render Library component" duration="615"/>
+    <testCase name="should contain Currently reading button" duration="389"/>
+    <testCase name="should contain Finished button" duration="294"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/organisms/SelectedPageContent/index.test.tsx">
+    <testCase name="should render Selected page component" duration="1114"/>
+    <testCase name="should contain the banner" duration="386"/>
+    <testCase name="should contain the input field" duration="307"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/App.test.tsx">
+    <testCase name="should render the App component" duration="933"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/molecules/ExploreModal/index.test.tsx">
+    <testCase name="should render the Book Card component" duration="449"/>
+    <testCase name="should have the Entrepreneurship button" duration="316"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/organisms/Footer/index.test.tsx">
+    <testCase name="should render the book detail" duration="285"/>
+    <testCase name="should contain the logo" duration="70"/>
+    <testCase name="should have the title" duration="71"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/organisms/Header/index.test.tsx">
+    <testCase name="should render Header component" duration="362"/>
+    <testCase name="should contain logo" duration="107"/>
+    <testCase name="should have explore button" duration="109"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/molecules/InputField/index.test.tsx">
+    <testCase name="should render the Input component" duration="129"/>
+    <testCase name="should contain the given label text" duration="38"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/molecules/FilledButton/index.test.tsx">
+    <testCase name="should render the Filled Button" duration="251"/>
+    <testCase name="should contain the label text given" duration="29"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/molecules/NavButton/index.test.tsx">
+    <testCase name="should render the Nav Button component" duration="232"/>
+    <testCase name="should contain the text given" duration="24"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/atoms/Typography/index.test.tsx">
+    <testCase name="should render Typography" duration="51"/>
+    <testCase name="should have the given text displayed" duration="7"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/molecules/Banner/index.test.tsx">
+    <testCase name="should render the Banner component" duration="79"/>
+    <testCase name="should contain the image" duration="21"/>
+    <testCase name="should have the title" duration="18"/>
+  </file>
+  <file path="/home/furqnm/Documents/React/react-blinkist-app/src/components/molecules/BookCard/index.test.tsx">
+    <testCase name="should render the Book Card component" duration="92"/>
+    <testCase name="should contain the text given" duration="21"/>
+    <testCase name="should contain the author name given" duration="21"/>
+    <testCase name="should contain the time given" duration="20"/>
+  </file>
+</testExecutions>
